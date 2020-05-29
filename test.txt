@@ -1,0 +1,39 @@
+test for /signupassociation
+
+{
+"aname" : "tanjamadinati",	
+"pname" : "ouissal",
+"phoneNum" : "8765",
+"associationNum" : "235",
+"legalNum" : "65436",
+"scope" : "Tanger-Assilah",
+"description" : "hbfnjsg",
+"website" : "erhjgkj",
+"email" : "tanja@gmail.com",
+"password" : "strongPass"
+}
+
+test for /loginassociation:
+
+{
+"email" : "tanja@gmail.com",
+"password" : "strongPass"
+}
+
+test for /signupowner
+
+{
+"fname" : "ouissal",
+"lname" : "moumou",
+"phoneNum" : "87386",
+"identityNum" : "878956",
+"email" : "tanja@gmail.com",
+"password" : "strongPass"
+}
+
+test for /loginowner
+
+{
+"email" : "tanja@gmail.com",
+"password" : "strongPass"
+}
